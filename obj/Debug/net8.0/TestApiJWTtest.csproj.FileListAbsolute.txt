@@ -247,3 +247,4 @@ E:\Flutter\fallprojects\TestApiJWTtest\TestApiJWTtest\obj\Debug\net8.0\refint\Te
 E:\Flutter\fallprojects\TestApiJWTtest\TestApiJWTtest\obj\Debug\net8.0\TestApiJWTtest.pdb
 E:\Flutter\fallprojects\TestApiJWTtest\TestApiJWTtest\obj\Debug\net8.0\TestApiJWTtest.genruntimeconfig.cache
 E:\Flutter\fallprojects\TestApiJWTtest\TestApiJWTtest\obj\Debug\net8.0\ref\TestApiJWTtest.dll
+E:\Flutter\fallprojects\TestApiJWTtest\TestApiJWTtest\obj\Debug\net8.0\TestApiJWTtest.sourcelink.json
